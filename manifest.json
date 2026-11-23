@@ -1,7 +1,7 @@
 {
   "name": "IronPulse \u2014 Strength & Performance",
   "short_name": "IronPulse",
-  "description": "Custom workout plan builder, live set logger, PR tracking, consistency heatmap, and on-time reminders.",
+  "description": "Offline-ready workout plan builder, live set logger, PR tracking, consistency heatmap, and on-time reminders.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
